@@ -6,7 +6,7 @@
     "@bazel/jasmine": "^0.32.2",
     "express": "^4.16.4",
     "jszip": "^3.2.1",
-    "mocha": "^6.1.4",
+    "mocha": "^10.2.0",
     "multer": "^1.4.1",
     "rimraf": "^2.6.3",
     "serve-index": "^1.9.1",
